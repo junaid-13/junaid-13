@@ -82,5 +82,5 @@ A work-in-progress project exploring advanced Terraform infrastructure setups.
 ---
 
 ## ✉️ Contact
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/sha-zufishan-junaid)  
+- LinkedIn: [LinkedIn](https://linkedin.com/in/sha-zufishan-junaid)  
 - GitHub: [GitHub](https://github.com/junaid-13)
