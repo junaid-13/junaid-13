@@ -1,20 +1,10 @@
-<!--
-  README for: junaid-13
-  - Dark professional theme
-  - Minimal gradient banner (place banner.png at repo root)
-  - Typing SVG animation, GitHub stats & streaks, top languages, trophies
-  - Top repos auto-picked (via stats service), tech stack, contact badges
--->
-
 <p align="center">
-  <!-- Banner: place a minimal dark gradient banner named banner.png in repo root -->
-  <img src="./banner.png" alt="Minimal dark gradient banner" width="100%" style="max-height:220px; object-fit:cover;">
+  <img src="./profile_banner.png" alt="Minimal dark gradient banner" width="100%" style="max-height:220px; object-fit:cover;">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Junaid</h1>
 
 <p align="center">
-  <!-- Typing SVG animation (cycles through lines). The ampersand is encoded. -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=660&lines=Entry-level+DevOps+Engineer;CI%2FCD+Enthusiast;Cloud+%26+Containerization+Learner;Automation+Explorer" alt="Typing SVG - Junaid" />
 </p>
 
@@ -22,9 +12,8 @@
 
 ## 🔎 About Me
 - 🎯 Entry-level **DevOps Engineer** passionate about automating workflows and deployments  
-- 🐳 Skilled in **Docker, Kubernetes, and CI/CD pipelines**  
-- ☁️ Learning **AWS Cloud, Infrastructure as Code (Terraform)**  
-- 🐧 Strong foundation in **Linux, Git, and scripting**  
+- 🐳 Skilled in **Terraform, Docker and CI/CD pipelines**  
+- ☁️ Learning **AWS Cloud, GitOps**  
 - 🚀 Mission: Build reliable, scalable, automated systems
 
 ---
