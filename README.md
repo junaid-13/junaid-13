@@ -1,101 +1,86 @@
-<p align="center">
-  <img src="./profile_banner.png" alt="Minimal dark gradient banner" width="100%" style="max-height:220px; object-fit:cover;">
-</p>
+<!-- Banner -->
+![banner](profile_banner.png)
 
-<h1 align="center">Hi there 👋, I'm Junaid</h1>
+# Hi there 👋, I'm Junaid
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=660&lines=Entry-level+DevOps+Engineer;CI%2FCD+Enthusiast;Cloud+%26+Containerization+Learner;Automation+Explorer" alt="Typing SVG - Junaid" />
-</p>
+*Entry-level DevOps Engineer | Terraform · Docker · CI/CD · Learning AWS & GitOps*
 
 ---
 
 ## 🔎 About Me
-- 🎯 Entry-level **DevOps Engineer** passionate about automating workflows and deployments  
-- 🐳 Skilled in **Terraform, Docker and CI/CD pipelines**  
-- ☁️ Learning **AWS Cloud, GitOps**  
-- 🚀 Mission: Build reliable, scalable, automated systems
+Hi, I’m Junaid 👋 — a DevOps Engineer starting my journey in automation and cloud infrastructure.  
+I enjoy working with **Terraform, Docker, and CI/CD pipelines**, and I’m learning **AWS** and **GitOps** to grow further in the field.
+
+- 🚀 Passionate about building reliable and automated systems  
+- 🐧 Comfortable with Linux, Git, Shell scripting, and Python basics  
+- 🎯 Interested in scalable deployments and modern cloud-native practices  
+- 📚 Always learning — currently deepening my AWS and Kubernetes knowledge  
+
+---
+
+## 🔝 Featured Projects
+
+### [EKS Cluster Provisioning with Worker Nodes](https://github.com/junaid-13/EKS-cluster-provisioning-with-worker-nodes)
+Infrastructure-as-Code setup to provision an AWS EKS cluster with worker nodes using Terraform.  
+⚡ Demonstrates Kubernetes on AWS, Terraform modules, and cloud infrastructure provisioning.  
+
+---
+
+### [Multi-Environment AWS IaC](https://github.com/junaid-13/Multi-Environment-AWS-IAC)
+Terraform configurations for managing multiple AWS environments (dev, staging, prod).  
+💡 Highlights environment isolation, reusable IaC patterns, and AWS resource provisioning.  
+
+---
+
+### [Infra-Live (In Progress)](https://github.com/junaid-13/infra-live)
+A work-in-progress project exploring advanced Terraform infrastructure setups.  
+🚧 Currently under development — included to reflect my ongoing learning and practice in building production-like IaC systems.  
+
+---
+
+## 🛠 Tech Stack
+
+**Infrastructure as Code**  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+**Cloud & Orchestration**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**CI/CD & Automation**  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Languages & Databases**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Operating Systems & VCS**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Currently Exploring**  
+![GitOps](https://img.shields.io/badge/GitOps-009639?style=for-the-badge&logo=flux&logoColor=white)
+![AWS Advanced](https://img.shields.io/badge/AWS_Advanced-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <!-- GitHub summary stats (dark theme) -->
-  <img alt="Junaid's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=junaid-13&show_icons=true&count_private=true&include_all_commits=false&theme=dark&hide_border=true" />
-
-  <!-- Streak stats (dark theme) -->
-  <img alt="Junaid's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=junaid-13&theme=dark&hide_border=true&date_format=%5BY-%5Dm-%5Dd" />
-
-  <!-- Top Languages (compact, dark theme) -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaid-13&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-> These cards are dynamically generated and will update automatically.
+![Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaid-13&show_icons=true&theme=dark&hide_border=true)  
+![Junaid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=junaid-13&theme=dark&hide_border=true)
 
 ---
 
-## 🔝 Top Repositories (auto-picked)
-<!--
-  The card below points to a dynamic top-repos endpoint that auto-picks repositories by popularity/activity.
-  If you prefer pinned repos to control what shows, use GitHub repo pinning on your profile.
--->
-<p align="center">
-  <img alt="Top Repositories" src="https://github-readme-stats.vercel.app/api/top-repos/?username=junaid-13&count=6&theme=dark&hide_border=true" />
-</p>
+## 🏆 GitHub Achievements
 
-> Note: the service above auto-selects your most active / starred repositories. If you want specific repos shown, you can pin them on your GitHub profile.
-
----
-
-## 🛠️ Tech Stack
-<p align="center">
-  <code>🐳 Docker</code> &nbsp;|&nbsp;
-  <code>☁️ AWS</code> &nbsp;|&nbsp;
-  <code>🔧 Kubernetes</code> &nbsp;|&nbsp;
-  <code>⚙️ CI/CD</code> &nbsp;|&nbsp;
-  <code>🐧 Linux</code> &nbsp;|&nbsp;
-  <code>🐍 Python</code> &nbsp;|&nbsp;
-  <code>💻 Git / GitHub</code>
-</p>
-
----
-
-## 🏆 Achievements & Certifications
-<p align="center">
-  <!-- GitHub Trophies (dark theme). This will show trophies and update automatically. -->
-  <img src="https://github-profile-trophy.vercel.app/?username=junaid-13&theme=dark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-**Future achievements:**  
-- Space reserved here for certifications, badges, and other accomplishments (this area is intentionally left to auto-update as you add external certifications or badges).
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=junaid-13&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=3&title=Commits,Stars,Repositories)
 
 ---
 
 ## ✉️ Contact
-<p align="center">
-  <!-- GitHub and LinkedIn clickable badges. Update LinkedIn handle if you prefer a different one. -->
-  <a href="https://github.com/junaid-13">
-    <img src="https://img.shields.io/badge/GitHub-junaid--13-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/junaid-13">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-</p>
-
----
-
-### ✨ Styling & UX notes
-- Theme: dark, minimal, professional. The README uses dark-themed cards and images to match.
-- Banner: keep `banner.png` as a subtle dark gradient (no text). Recommended size: 1200×220 px, exported as PNG or WebP.
-- Animations: typing SVG gives the dynamic intro. GitHub sanitizes CSS, so hover animations are limited — visual affordances are provided by the image cards and SVG.
-- Readability: sections separated with horizontal rules and centered cards for clean scanning.
-- Pinned vs. auto-picked repos: the "Top Repositories" card is auto-picked. If you want absolute control, use GitHub's pin feature (Profile -> Customize -> Pins) and replace the top-repos image with pinned repo cards.
-
----
-
-## 📁 Troubleshooting & customization
-- To change the banner filename/path: update the `src` in the top `<img>` tag.
-- If any of the dynamic images fail to render (rate limits, service down), they'll show as broken images — consider adding a fallback text or host a static snapshot image.
-- To show specific repos instead of auto-picked ones, pin them on your profile; for curated images you can use per-repo pin cards such as:
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/sha-zufishan-junaid)  
+- GitHub: [https://github.com](https://github.com/junaid-13)
