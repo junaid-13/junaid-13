@@ -68,14 +68,14 @@ A work-in-progress project exploring advanced Terraform infrastructure setups.
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 ![Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaid-13&show_icons=true&theme=dark&hide_border=true)  
 ![Junaid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=junaid-13&theme=dark&hide_border=true)
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=junaid-13&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=3&title=Commits,Stars,Repositories)
 
