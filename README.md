@@ -9,12 +9,12 @@
 
 ## 🔎 About Me
 I’m a DevOps Engineer starting my journey in automation and cloud infrastructure.  
-I enjoy working with **Terraform, Docker, and CI/CD pipelines**, and I’m learning **AWS** and **GitOps** to grow further in the field.
+I enjoy working with **Terraform, CI/CD pipelines (Jenkins), Docker and Kubernetes**, and I’m learning **AWS Services** and **GitOps** to grow further in the field.
 
 - 🚀 Passionate about building reliable and automated systems  
-- 🐧 Comfortable with Linux, Git, Shell scripting, and Python basics  
+- 🐧 Comfortable with Linux, Git, and Python
 - 🎯 Interested in scalable deployments and modern cloud-native practices  
-- 📚 Always learning — currently deepening my AWS and Kubernetes knowledge  
+- 📚 Always learning — currently deepening my knowledge related to Devops and AI (Generativve AI)
 
 ---
 
