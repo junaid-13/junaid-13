@@ -8,7 +8,7 @@
 ---
 
 ## 🔎 About Me
-Hi, I’m Junaid 👋 — a DevOps Engineer starting my journey in automation and cloud infrastructure.  
+I’m a DevOps Engineer starting my journey in automation and cloud infrastructure.  
 I enjoy working with **Terraform, Docker, and CI/CD pipelines**, and I’m learning **AWS** and **GitOps** to grow further in the field.
 
 - 🚀 Passionate about building reliable and automated systems  
