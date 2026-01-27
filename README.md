@@ -9,12 +9,12 @@
 
 ## 🔎 About Me
 I’m a DevOps Engineer starting my journey in automation and cloud infrastructure.  
-I enjoy working with **Terraform, CI/CD pipelines (Jenkins), Docker and Kubernetes**, and I’m learning **AWS Services** and **GitOps** to grow further in the field.
+I enjoy working with **Terraform, CI/CD pipelines (Jenkins), Docker, and Kubernetes**, and I’m learning **AWS services** and **GitOps** to grow further in the field.
 
 - 🚀 Passionate about building reliable and automated systems  
-- 🐧 Comfortable with Linux, Git, and Python
+- 🐧 Comfortable with Linux, Git, and Python  
 - 🎯 Interested in scalable deployments and modern cloud-native practices  
-- 📚 Always learning — currently deepening my knowledge related to Devops and AI (Generativve AI)
+- 📚 Always learning — currently deepening my knowledge related to DevOps and AI (Generative AI)
 
 ---
 
@@ -44,26 +44,26 @@ A work-in-progress project exploring advanced Terraform infrastructure setups.
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 **Cloud & Orchestration**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **CI/CD & Automation**  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Languages & Databases**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Operating Systems & VCS**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Currently Exploring**  
-![GitOps](https://img.shields.io/badge/GitOps-009639?style=for-the-badge&logo=flux&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-009639?style=for-the-badge&logo=flux&logoColor=white)  
 ![AWS Advanced](https://img.shields.io/badge/AWS_Advanced-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
@@ -82,5 +82,5 @@ A work-in-progress project exploring advanced Terraform infrastructure setups.
 ---
 
 ## ✉️ Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sha-zufishan-junaid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sha-zufishan-junaid)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/junaid-13)  
