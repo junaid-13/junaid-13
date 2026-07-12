@@ -1,5 +1,4 @@
 <!-- Banner -->
-![banner](profile_banner.png)
 
 # Hi there 👋, I'm Junaid
 
