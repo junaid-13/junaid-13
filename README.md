@@ -8,8 +8,8 @@
 ---
 
 ## 🔎 About Me
-I’m a DevOps Engineer starting my journey in automation and cloud infrastructure.  
-I enjoy working with **Terraform, CI/CD pipelines (Jenkins), Docker, and Kubernetes**, and I’m learning **AWS services** and **GitOps** to grow further in the field.
+I'm a DevOps Engineer starting my journey in automation and cloud infrastructure.  
+I enjoy working with **Terraform, CI/CD pipelines (Jenkins), Docker, and Kubernetes**, and I'm learning **AWS services** and **GitOps** to grow further in the field.
 
 - 🚀 Passionate about building reliable and automated systems  
 - 🐧 Comfortable with Linux, Git, and Python  
@@ -22,19 +22,19 @@ I enjoy working with **Terraform, CI/CD pipelines (Jenkins), Docker, and Kuberne
 
 ### [EKS Cluster Provisioning with Worker Nodes](https://github.com/junaid-13/EKS-cluster-provisioning-with-worker-nodes)
 Infrastructure-as-Code setup to provision an AWS EKS cluster with worker nodes using Terraform.  
-⚡ Demonstrates Kubernetes on AWS, Terraform modules, and cloud infrastructure provisioning.  
+⚡ Demonstrates Kubernetes on AWS, Terraform modules, and cloud infrastructure provisioning.
 
 ---
 
 ### [Multi-Environment AWS IaC](https://github.com/junaid-13/Multi-Environment-AWS-IAC)
 Terraform configurations for managing multiple AWS environments (dev, staging, prod).  
-💡 Highlights environment isolation, reusable IaC patterns, and AWS resource provisioning.  
+💡 Highlights environment isolation, reusable IaC patterns, and AWS resource provisioning.
 
 ---
 
 ### [Infra-Live (In Progress)](https://github.com/junaid-13/infra-live)
 A work-in-progress project exploring advanced Terraform infrastructure setups.  
-🚧 Currently under development — included to reflect my ongoing learning and practice in building production-like IaC systems.  
+🚧 Currently under development — included to reflect my ongoing learning and practice in building production-like IaC systems.
 
 ---
 
@@ -44,14 +44,14 @@ A work-in-progress project exploring advanced Terraform infrastructure setups.
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 **Cloud & Orchestration**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **CI/CD & Automation**  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Languages & Databases**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -64,14 +64,14 @@ A work-in-progress project exploring advanced Terraform infrastructure setups.
 
 **Currently Exploring**  
 ![GitOps](https://img.shields.io/badge/GitOps-009639?style=for-the-badge&logo=flux&logoColor=white)  
-![AWS Advanced](https://img.shields.io/badge/AWS_Advanced-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Advanced](https://img.shields.io/badge/AWS_Advanced-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Junaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=junaid-13&show_icons=true&theme=dark&hide_border=true)  
-![Junaid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=junaid-13&theme=dark&hide_border=true)
+![Junaid's GitHub Streak](https://streak-stats.demolab.com?user=junaid-13&theme=dark&hide_border=true)
 
 ---
 
@@ -83,4 +83,4 @@ A work-in-progress project exploring advanced Terraform infrastructure setups.
 
 ## ✉️ Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sha-zufishan-junaid)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/junaid-13)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/junaid-13)
